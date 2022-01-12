@@ -12,3 +12,6 @@ as well as mathematical physics, especially quantum computing and TQFTs.
 I was formerly in information security, and I still have an interest in formal verification and hardware security.
 
 I play a variety of video games, mostly Team Fortress 2 and Warsow.
+
+I plan on this site to mostly be an area for me to sketch out things I'm working with or thinking about, and hopefully
+provide some helpful expository content along the way.
