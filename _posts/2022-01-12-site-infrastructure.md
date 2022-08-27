@@ -4,8 +4,6 @@ title: Site infrastructure
 date: 2022-01-12 12:34 -0700
 ---
 
-# Site Infrastructure
-
 Hello all, for my first post here I figured I'd write a bit about my hosting of this site.
 I'm using Jekyll and Github Pages with the Chirpy theme. You can view the source [here](https://github.com/Fiona1729/Fiona1729.github.io).
 
