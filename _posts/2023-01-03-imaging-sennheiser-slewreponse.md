@@ -39,7 +39,7 @@ Headphone imaging is largely dependent on a fast and clear rising edge of a soun
 
 * [RTINGS Imaging Scoring](https://www.rtings.com/headphones/tests/sound-quality/imaging) has good explanations of some other effects on headphones but their measurements seem to be somewhat out of whack with subjective views on what headphones have the best imaging and soundstage for games. I can't really say if the zeitgeist is wrong or if their weightings of different factors is.
 
-* [Wikipedia - Sound localization by the human auditory system](Sound localization by the human auditory system) explains how humans actually interpret sound direction
+* [Wikipedia - Sound localization by the human auditory system](https://en.wikipedia.org/wiki/Sound_localization#Sound_localization_by_the_human_auditory_system) explains how humans actually interpret sound direction
 
 * [Topping DAC/amp filters](https://addictedtoaudio.com.au/blogs/how-to/how-to-pick-the-best-filter-setting-for-your-dac) explains DAC filter effects on transients
 
