@@ -18,19 +18,19 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fiona's Site                          # the main title
+title: Fiona Blackett                      # the main title
 
-tagline: Math, physics, and game ramblings.   # it will display as the sub-title
+tagline: Mathematics PhD student & her ramblings   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Fiona's site for collecting various writings on mathematics,
-  physics, and games.
+  I'm Fiona Blackett, a PhD student at the University of Strathclyde.
+  Here is where you can find posts I've made as well as talks & my CV.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://fiona1729.github.io'
 
 github:
-  username: Fiona1729             # change to your github username
+  username: fionafibration            # change to your github username
 
 twitter:
   username: fionafibration            # change to your twitter username
@@ -38,12 +38,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Fiona
+  name: Fiona Blackett
   email: fiona1729@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/fionafibration      # change to your twitter homepage
-    - https://github.com/Fiona1729       # change to your github homepage
+    - https://github.com/fionafibration       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url

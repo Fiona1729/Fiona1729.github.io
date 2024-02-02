@@ -2,16 +2,28 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+math: true
 ---
 
 Hello, I'm Fiona.
 
-I'm a mathematics student interested in stable homotopy theory and low dimensional topology,
-as well as mathematical physics, especially quantum computing and TQFTs.
+I'm a mathematics PhD student broadly interested in applying homotopy theory
+to mathematical physics, mostly from the perspective of cohesive $(\infty,1)$-topoi
+and differential cohomology, as well as Calabi-Yau $A_\infty$ categories and Floer homology.
 
-I was formerly in information security, and I still have an interest in formal verification and hardware security.
+I was formerly in information security, and I still maintain some interest in formal verification
+and formal methods in software. This is mostly in the form of category theory intersecting type theory,
+with the MSP group at the University of Strathclyde.
 
-I play a variety of video games, mostly Team Fortress 2 and osu.
+## Talks
+- *The Eilenberg-Steenrod cohomology axioms and Generalised (Co)homology Axioms* at Adams Blue Book seminar with University of Chicago
+- *Topological Quantum Field Theories and Frobenius Algebras* at CU Boulder SPS Seminar
+- *Differential/Persistent Cohomology and Cohesive Topos Theory* at VERSES AI Research Summit
 
-I plan on this site to mostly be an area for me to sketch out things I'm working with or thinking about, and hopefully
-provide some helpful expository content along the way.
+## Conferences
+- Competed in HackFortress competition at DEFCON 2023
+- Homotopical Methods in Fixed Point Theory - CU Boulder - July 11, 2022
+- Geometry and Topology meet Data Analysis and Machine Learning - Northeastern University - June 8, 2023
+- Theoretical Advanced Study Institute in Particle Theory - CU Boulder - June 5, 2023
+- Applied Category Theory - University of Maryland - July 31st, 2023
+- VERSES AI Research Summit - Brocket Hall, UK - Oct 9th, 2023

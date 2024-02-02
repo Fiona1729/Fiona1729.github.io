@@ -2,6 +2,8 @@
 layout: post
 title: The Eilenberg-Steenrod Axioms and Generalized (Co)homology Theories
 date: 2022-08-26 21:44 -0600
+math: true
+category: Talks & Slides
 ---
 
 A talk I gave as part of an online seminar on stable homotopy theory:

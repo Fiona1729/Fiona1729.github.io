@@ -2,6 +2,7 @@
 layout: post
 title: Site infrastructure
 date: 2022-01-12 12:34 -0700
+category: Miscellaneous
 ---
 
 Hello all, for my first post here I figured I'd write a bit about my hosting of this site.
