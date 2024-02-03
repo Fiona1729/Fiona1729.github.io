@@ -42,11 +42,12 @@ social:
   email: fiona1729@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://fiona1729.com/about
     - https://twitter.com/fionafibration      # change to your twitter homepage
     - https://github.com/fionafibration       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/fiona-blackett-853541220/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 

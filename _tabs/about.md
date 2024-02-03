@@ -1,7 +1,7 @@
 ---
-title: About
+title: About Me
 icon: fas fa-info-circle
-order: 4
+order: 5
 math: true
 ---
 
@@ -21,9 +21,12 @@ with the MSP group at the University of Strathclyde.
 - *Differential/Persistent Cohomology and Cohesive Topos Theory* at VERSES AI Research Summit
 
 ## Conferences
-- Competed in HackFortress competition at DEFCON 2023
 - Homotopical Methods in Fixed Point Theory - CU Boulder - July 11, 2022
 - Geometry and Topology meet Data Analysis and Machine Learning - Northeastern University - June 8, 2023
 - Theoretical Advanced Study Institute in Particle Theory - CU Boulder - June 5, 2023
 - Applied Category Theory - University of Maryland - July 31st, 2023
 - VERSES AI Research Summit - Brocket Hall, UK - Oct 9th, 2023
+
+## Education
+- University of Strathclyde, PhD Student - Current
+- University of Colorado Boulder, Math BA, incomplete - August 2021 to December 2022
