@@ -16,7 +16,7 @@ and formal methods in software. This is mostly in the form of category theory in
 with the MSP group at the University of Strathclyde.
 
 ## Talks
-- *The Eilenberg-Steenrod cohomology axioms and Generalised (Co)homology Axioms* at Adams Blue Book seminar with University of Chicago
+- *The Eilenberg-Steenrod Axioms and Generalised (Co)homology Theory* at Adams Blue Book seminar with University of Chicago
 - *Topological Quantum Field Theories and Frobenius Algebras* at CU Boulder SPS Seminar
 - *Differential/Persistent Cohomology and Cohesive Topos Theory* at VERSES AI Research Summit
 
