@@ -7,13 +7,19 @@ math: true
 
 Hello, I'm Fiona.
 
-I'm a mathematics PhD student broadly interested in applying homotopy theory
-to mathematical physics, mostly from the perspective of cohesive $(\infty,1)$-topoi
+I'm a mathematics PhD student at the University of Strathclyde. I'm broadly interested in 
+applying homotopy theory to mathematical physics, mostly from the perspective of cohesive $(\infty,1)$-topoi
 and differential cohomology, as well as Calabi-Yau $A_\infty$ categories and Floer homology.
 
-I was formerly in information security, and I still maintain some interest in formal verification
+I am employed & funded by [VERSES AI](https://www.verses.ai/) as a researcher in the mathematics 
+theory group, where I am currently working on active inference, topological data analysis, and 
+applying statistical physics to machine learning.
+
+I was previously in information security, and I still maintain some interest in formal verification
 and formal methods in software. This is mostly in the form of category theory intersecting type theory,
 with the MSP group at the University of Strathclyde.
+
+In my time outside mathematics I enjoy hiking, cycling, and American Sign Language.
 
 ## Talks
 - *The Eilenberg-Steenrod Axioms and Generalised (Co)homology Theory* at Adams Blue Book seminar with University of Chicago
