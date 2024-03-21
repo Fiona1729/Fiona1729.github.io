@@ -9,7 +9,7 @@ Hello, I'm Fiona.
 
 I'm a mathematics PhD student at the University of Strathclyde. I'm broadly interested in 
 applying homotopy theory to mathematical physics, mostly from the perspective of cohesive $(\infty,1)$-topoi
-and differential cohomology, as well as Calabi-Yau $A_\infty$ categories and Floer homology.
+and differential cohomology, as well as $A_\infty$ and other homotopical structures in Floer homology and mirror symmetry.
 
 I am employed & funded by [VERSES AI](https://www.verses.ai/) as a researcher in the mathematics 
 theory group, where I am currently working on active inference, topological data analysis, and 
