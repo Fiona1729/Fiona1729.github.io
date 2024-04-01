@@ -7,7 +7,7 @@ math: true
 
 Hello, I'm Fiona Blackett.
 
-I'm a mathematics PhD student at the University of Strathclyde. I'm broadly interested in 
+I'm a mathematics PhD student at the University of Strathclyde, advised by [Dalton Sakthivadivel](https://darsakthi.github.io/). I'm broadly interested in 
 applying homotopy theory to mathematical physics, mostly from the perspective of cohesive $(\infty,1)$-topoi
 and differential cohomology, as well as $A_\infty$ and other homotopical structures in Floer homology and mirror symmetry.
 
