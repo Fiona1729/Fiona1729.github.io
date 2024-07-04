@@ -13,13 +13,13 @@ and differential cohomology, as well as $A_\infty$ and other homotopical structu
 
 I am employed & funded by [VERSES AI](https://www.verses.ai/) as a researcher in the mathematics 
 theory group, where I am currently working on active inference, topological data analysis, and 
-applying statistical physics to machine learning.
+applying statistical physics to machine learning. 
 
 I was previously in information security, and I still maintain some interest in formal verification
 and formal methods in software. This is mostly in the form of category theory intersecting type theory,
 with the MSP group at the University of Strathclyde.
 
-In my time outside mathematics I enjoy hiking, cycling, and American Sign Language.
+In my time outside mathematics I enjoy hiking, cycling, and American Sign Language. I have a strong interest in psychopharmacology & mental health advocacy, as well as [harm reduction](https://www.samhsa.gov/find-help/harm-reduction). 
 
 ## Talks
 - *The Eilenberg-Steenrod Axioms and Generalised (Co)homology Theory* at Adams Blue Book seminar with University of Chicago
