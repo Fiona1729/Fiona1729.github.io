@@ -32,7 +32,8 @@ In my time outside mathematics I enjoy hiking, cycling, and American Sign Langua
 - Geometry and Topology meet Data Analysis and Machine Learning - Northeastern University - June 8, 2023
 - Applied Category Theory - University of Maryland - July 31st, 2023
 - VERSES AI Research Summit - Brocket Hall, UK - Oct 9th, 2023
-- Topology, Representation Theory, and Higher Structures - INI Satellite Programme @ Sabhal Mòr Ostaig - 26 May 2024 
+- Topology, Representation Theory, and Higher Structures - INI Satellite Programme @ Sabhal Mòr Ostaig - 26 May 2024
+- Séminaire Itinérant de Géométrie et Physique XIX - Sapienza University of Rome - Sept 9th, 2024
 
 ## Education
 - University of Strathclyde, PhD Student - Current
